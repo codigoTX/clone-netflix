@@ -98,3 +98,11 @@ header nav a:hover{
 .carrosel-filmes{
   margin-top: 5px;
 }
+
+footer {
+  height: 40px;
+  background-color: turquoise;
+  margin-top: 10px;
+  text-align: center;
+  padding-top: 10px;
+}
